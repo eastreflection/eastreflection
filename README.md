@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Kale</h1>
+<h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">Electronics Engineer learning to Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eastreflection&label=Profile%20views&color=0e75b6&style=flat" alt="eastreflection" /> </p>
